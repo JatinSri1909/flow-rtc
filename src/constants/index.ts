@@ -3,7 +3,7 @@ import { Eye, Video } from "lucide-react";
 export const pages = [
     {
         icon: Video,
-        title: "Stream Streaming",
+        title: "Start Streaming",
         description: "Connect with others via video chat, share your camera and microphone",
         href: "/stream",
         button: "Start Streaming",
